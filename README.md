@@ -30,7 +30,8 @@ const bot = new Discord.Client();
 const prefix = "."
 bot.on("message", message => {
 if (message.content === `${prefix}BAL`) {
-discordcoins.Balance(message.author.id)
+let Balance = discordcoins.Balance(message.author.id)
+message.channel.send(`Their balance is ${Balance}!`)
 }
 })
 ```
