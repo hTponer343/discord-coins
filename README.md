@@ -1,5 +1,5 @@
 # discord-coins
-Discord Coins is a free discord coins addon for npmjs.
+Discord Coins is a free discord money system for npmjs.
 
 ## This is under HIGH development at the moment.
 If these do not work then we are going to make a new one later. To be notified about the updates, [join my discord.](https://discord.gg/yNd3GWY)
