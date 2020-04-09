@@ -1,0 +1,13 @@
+{
+  "name": "discord-coins",
+  "version": "1.0.1",
+  "description": "A coin system kind-of like discord-money or quick.db.",
+  "license": "MIT",
+  "repository": "hTponer343/discord-coins",
+  "main": "index.js",
+  "keywords": [
+    "discord",
+    "node.js",
+    "coinsystem"
+  ]
+}
